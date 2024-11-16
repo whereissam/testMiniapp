@@ -16,3 +16,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 View docs: [Docs](https://minikit-docs.vercel.app/mini-apps)
 
 [Developer Portal](https://developer.worldcoin.org/)
+# testMiniapp
